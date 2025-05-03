@@ -26,4 +26,5 @@ View detailed information about each job opening.
 * Technologies Used
 Frontend: HTML, CSS
 Backend: Spring MVC
-Database: MySQL 
+Database: MySQL
+
